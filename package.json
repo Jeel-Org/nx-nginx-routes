@@ -1,7 +1,7 @@
 {
-  "name": "next-nginx-routes",
+  "name": "nx-nginx-routes",
   "description": "Generate Nginx routing configuration for static Next.js projects.",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "keywords": [
     "Next.js",
     "Nginx",
@@ -28,7 +28,7 @@
   "homepage": "https://geops.com/en/blog/next-nginx-routes",
   "repository": {
     "type": "git",
-    "url": "https://github.com/geops/next-nginx-routes.git"
+    "url": "https://github.com/Jeel-Org/nx-nginx-routes.git"
   },
   "scripts": {
     "format": "prettier --write *.js",
